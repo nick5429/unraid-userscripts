@@ -3,6 +3,7 @@
 # Script:      Video Preloader v1.4
 # Description: Preloads the recent video files of a specific path into the RAM to bypass HDD spinup latency
 # Author:      Marc Gutt
+# Source:      https://forums.unraid.net/topic/97982-video-preloader-avoids-hdd-spinup-latency-when-starting-a-movie-or-episode-through-plex-jellyfin-or-emby/#comment-904118
 # ######### Settings ##################
 
 video_paths=(
